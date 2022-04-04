@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nxn4686
+- 👋 Hi, I’m Nikita Lunev, @Nxn4686
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning html/css
 - 💞️ I’m looking to collaborate with people, whose have the same education
