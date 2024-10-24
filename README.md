@@ -1,9 +1,8 @@
 - 👋 Hi, I’m Nikita Lunev, @Nxn4686
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning html/css
+- 👀 I’m interested in development
+- 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate with people, whose have the same education
 - 📫 How to reach me: mail me! lunevbros@yandex.ru
--  I’m currently learning C#
 
 <!---
 Nxn4686/Nxn4686 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
