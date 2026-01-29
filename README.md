@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nikita Lunev, @Nxn4686
 - 👀 I’m interested in development
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning JAVA
 - 💞️ I’m looking to collaborate with people, whose have the same education
 - 📫 How to reach me: mail me! lunevbros@yandex.ru
 
